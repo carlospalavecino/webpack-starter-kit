@@ -12,3 +12,8 @@ Para Construir el build
 ```bash
 npm run build
 ```
+
+Servidor de desarrollo
+```bash
+npm run serve
+```
