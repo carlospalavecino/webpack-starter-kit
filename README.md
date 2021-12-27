@@ -15,5 +15,5 @@ npm run build
 
 Servidor de desarrollo
 ```bash
-npm run serve
+npm start
 ```
